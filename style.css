@@ -1,0 +1,296 @@
+h1{
+    color: brown;
+    font-size: 50px;
+}
+.Ch1{
+    color: darkslategray;
+    font-size: 50px;
+}
+.HSh1{
+    color: mediumturquoise;
+    font-size: 50px;
+}
+span{
+    color: white;
+}
+.img{
+    margin: 20px 15px 10px 10px;
+    height: 350px;
+    width: 350px;
+    float: left;
+}
+.aD{
+    cursor: url(http://cur.cursors-4u.net/games/gam-3/gam248.ani), url(http://cur.cursors-4u.net/games/gam-3/gam248.png), progress !important;
+    color: white;
+}
+.aCS{
+    cursor: url(http://cur.cursors-4u.net/cursors/cur-7/cur641.cur), progress !important;
+    color:white;
+}
+.aHS{
+    cursor: url(http://cur.cursors-4u.net/cursors/cur-2/cur116.cur), progress !important;
+    color:white;
+}
+.ul{
+    margin: 0;
+    padding: 10px;
+}
+.Dli{
+    color: brown;
+}
+.CSli{
+    color: darkslategray;
+}
+.HSli{
+    color: mediumturquoise;
+}
+.tour{
+    color: white; 
+    font-size: 30px;
+}
+.imgtour{
+    height: 600px;
+    width: 800px;
+    padding: 10px 0;
+}
+.imgteam{    
+    height: 400px;
+    width: 500px;
+    padding: 10px 10px;
+    float: left;
+}
+.imgteamHS{    
+    height: 300px;
+    width: 500px;
+    padding: 10px 10px;
+    float: left;
+}
+.li1,.li2,.li3,.li4,.li5,.li6,.li7,.li8,.li9{
+    list-style: none;
+    text-align: center;
+    background-color: black;
+}
+.bh{
+    height: 100%;
+    background-color: black;
+}
+.block1{
+    background: url(fonDota.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    background-color: black;
+    height: 100%;
+    width: 33%;
+    display: inline-block;
+    box-sizing: border-box;
+    cursor: url(http://cur.cursors-4u.net/games/gam-3/gam248.ani), url(http://cur.cursors-4u.net/games/gam-3/gam248.png), progress !important;
+}
+.block2{
+    background: url(fonCS.jpg);    
+    background-color: darkslategray;
+    height: 100%;
+    width: 33%;
+    display: inline-block;
+    box-sizing: border-box;
+    cursor: url(http://cur.cursors-4u.net/cursors/cur-7/cur641.cur), progress !important;
+}
+.block3{
+    background: url(fon.jpg);    
+    height: 100%;
+    width: 33.4%;
+    display: inline-block;
+    box-sizing: border-box;
+    cursor: url(http://cur.cursors-4u.net/cursors/cur-2/cur116.cur), progress !important;
+}
+.img1{
+    display: block;
+    margin:250px auto;
+    height: 400px;
+    width: 400px;
+}
+.img2{
+    display: block;
+    margin:300px auto;
+    height: 300px;
+    width: 450px;
+}
+.img3{
+    display: block;
+    margin:300px auto;
+    height: 350px;
+    width: 500px;
+}
+.bdota{
+    font-size: 20px;
+    font-family: 'Arial';
+    color: white;
+    background: url(fon1.jpg);
+    background-size: 100%;
+    background-attachment: fixed;    
+    cursor: url(http://cur.cursors-4u.net/games/gam-3/gam248.ani), url(http://cur.cursors-4u.net/games/gam-3/gam248.png), progress !important;
+}
+.main{
+    width: 1200px;
+    height: 5900px;
+    margin: 0 auto;
+}
+.header{
+    background: url(Dheader.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 250px;     
+    margin-left: 100px;   
+}
+.menu{
+    box-sizing: border-box;
+    width: 1200px;
+    height: 100px;
+}
+.content{
+    background-color: black; 
+    opacity: 0.95;
+    width: 1200px;
+    height: 5500px;
+    padding: 5px 20px;
+}
+.CSmain{
+    width: 1200px;
+    height: 5150px;
+    margin: 0 auto;
+}
+.CScontent{
+    background-color: black; 
+    opacity: 0.95;
+    width: 1200px;
+    height: 4750px;
+    padding: 5px 20px;
+}
+.HSmain{
+    width: 1200px;
+    height: 5100px;
+    margin: 0 auto;
+}
+.HScontent{
+    background-color: black; 
+    opacity: 0.95;
+    width: 1200px;
+    height: 4600px;
+    padding: 5px 20px;
+}
+.side{
+    left: -80px;
+    position:fixed;
+    height: 200px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: black;
+    opacity: 0.95;
+    top: 300px;
+}
+.sideimg{
+    height: 55px;
+    width: 55px;
+}
+.Dbutt1,.Dbutt2{
+    font-size: 40px;
+    box-sizing: border-box;
+    text-align: center;
+    padding:20px 0;
+    display: inline-block;
+    background-color: black;
+    width: 500px;
+    height: 90px;
+    margin: 0 45px;
+    border-radius: 10px;
+    opacity: 0.95;
+}
+.strelka{
+    display: block;
+    position: absolute;
+    width: 60px;
+    height: 50px;
+    left:100px;
+}
+.bcs{
+    font-size: 20px;
+    font-family: 'Arial';
+    color: white;
+    background: url(fon2.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    cursor: url(http://cur.cursors-4u.net/cursors/cur-7/cur641.cur), progress !important;
+}
+.CSheader{
+    background: url(cs.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 250px;     
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+.CSbutt1,.CSbutt2{
+    font-size: 40px;
+    box-sizing: border-box;
+    text-align: center;
+    padding:20px 0;
+    display: inline-block;
+    background-color: black;
+    width: 500px;
+    height: 90px;
+    margin: 0 45px;
+    border-radius: 10px;
+    opacity: 0.95;
+}
+.bhs{
+    font-size: 20px;
+    font-family: 'Arial';
+    color: white;
+    background: url(fon3.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    cursor: url(http://cur.cursors-4u.net/cursors/cur-2/cur116.cur), progress !important;
+}
+.HSheader{
+    background: url(hs.png);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 330px;     
+    margin-left: 150px;
+    margin-bottom: 30px;    
+}
+.HSbutt1,.HSbutt2{
+    font-size: 40px;
+    box-sizing: border-box;
+    text-align: center;
+    padding:20px 0;
+    display: inline-block;
+    background-color: black;
+    width: 500px;
+    height: 90px;
+    margin: 0 45px;
+    border-radius: 10px;
+    opacity: 0.95;
+}
+.gallery{
+    padding: 30px 10px;    
+}
+.Gcontent{    
+    background-color: black; 
+    opacity: 0.95;
+    width: 1200px;
+    height: 1000px;
+    padding: 5px 20px;
+}
+.Gmain{
+    width: 1200px;
+    height: 1400px;
+    margin: 0 auto;
+}
+.GHSmain{
+    width: 1200px;
+    height: 1500px;
+    margin: 0 auto;
+}
